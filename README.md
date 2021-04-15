@@ -9,7 +9,10 @@ Open in ide and run spring boot application. Should launch on localhost:8080
 link to repo: https://github.com/HimWell/user-management-back-end.git
 
 You can test back end service calls in postman
-https://www.postman.com/downloads/
+Download Link: https://www.postman.com/downloads/
+
+Database (MySQL):
+Download Link: https://dev.mysql.com/downloads/shell/
 
 Front End (Completed in Angular 11, SCSS and Bootstrap):
 run npm install for packages
