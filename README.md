@@ -1,27 +1,22 @@
-# UsermanagementUi
+# user-management-system
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
+A simple application that allows one to add, update and delete users.
 
-## Development server
+ To run application:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Back End (Completed in JAVA Spring Boot):
+Open in ide and run spring boot application. Should launch on localhost:8080
+link to repo: 
 
-## Code scaffolding
+You can test back end service calls in postman
+https://www.postman.com/downloads/
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Front End (Completed in Angular 11, SCSS and Bootstrap):
+run npm install for packages
+run ng build to build project
+run ng serve to launch application on localhost:4200
+link to repo:
 
-## Build
+NB: APP HAS NOT BEEN DEPLOYED TO ANY SERVER, PLEASE MAKE SURE SPRING BOOT APPLICATION IS RUNNING TO PERFORM FUNCTIONALITY ON FRONT END
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+A user management system completed in Java SpringBoot and Angular 11 with Bootstrap
