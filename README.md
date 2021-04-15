@@ -15,8 +15,6 @@ Front End (Completed in Angular 11, SCSS and Bootstrap):
 run npm install for packages
 run ng build to build project
 run ng serve to launch application on localhost:4200
-link to repo:
+link to repo: https://github.com/HimWell/user-management-ui.git
 
 NB: APP HAS NOT BEEN DEPLOYED TO ANY SERVER, PLEASE MAKE SURE SPRING BOOT APPLICATION IS RUNNING TO PERFORM FUNCTIONALITY ON FRONT END
-
-A user management system completed in Java SpringBoot and Angular 11 with Bootstrap
